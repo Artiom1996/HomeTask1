@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Task1Lib</string>
+    <string name="task1_lib_text_from_library">Text from library</string>
+</resources>
